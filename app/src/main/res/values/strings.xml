@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GUITAR IN</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="nama">Nama</string>
+    <string name="merk">Merk</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_data">Ubah Data</string>
+    <string name="invalid">Nama, merk, dan jenis tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus Data</string>
+    <string name="pesan_hapus">Hapus Data ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">GUITARIN Adalah aplikasi data semua gitar yang bertujuan untuk mendata berbagai macam gitar.\n\nAplikasi ini dibuat untuk Assesment
+    2 Mobpro.\n\nCopyright © 2021 - 2024 Davi Pramudya Putra.\nAll rights
+    reserved.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Nama: %1$s\nMerk: %2$s\nJenis: %3$s</string>
+    <string name="harga">Harga</string>
+</resources>
